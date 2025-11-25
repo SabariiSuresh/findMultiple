@@ -1,2 +1,2 @@
 # findMultiple
-Just a sample node app check multiple of two numers.
+Just a simple node app check multiple of two numers.
